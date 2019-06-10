@@ -23,29 +23,12 @@
             <div class="col-item">
                 <div class="photo">
                     <a href="{{product.permalink}}">
-                        {% capture image_path %}_product/{{product.product_specification}}/{{product-url[2]}}/images/{{ product.product_images[0]}}{% endcapture %}
-                        {% capture full_path %}/product/{{product.product_specification}}/{{product-url[2]}}/images/{{ product.product_images[0]}}{% endcapture %}
-                        {% responsive_image_block %}
-                        template: _includes/thumb.html
-                        path: {{ image_path }}
-                        fullpath: {{ full_path }}
-                        {% if product.title %}
-                        title: {{ product.title}}
-                        alt: {{ product.title }}
-                        {% endif %}
-                        {% endresponsive_image_block %}
+                        {% assign imagePath = product.product_images[0] | replace: '/assets/images/', '' %}
+                        {% picture thumb {{imagePath}} alt=product.title %}
                     </a>
                 </div>
-                {% assign specification = product.product_specification | downcase %}
-                {% if specification == "ce" %}
-                {% assign specification_text = "Consumer Edition" %}
-                {% elsif specification == "ee" %}
-                {% assign specification_text = "Enterprise Edition" %}
-                {% elsif specification == "ie" %}
-                {% assign specification_text = "IoT Edition" %}
-                {% elsif specification == "mezzanine" %}
-                {% assign specification_text = "Mezzanine Edition" %}
-                {% endif %}
+                {% assign specification = product.product_specification %}
+                {% assign specification_text = site.data.specifications | where: 'shortcode', specification %}
                 <div class="spec-badge" data-toggle="tooltip" data-position="right" title="{{specification_text}}">
                     <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                         data-src="/assets/images/content/tiny-spec-{{specification}}.png"
