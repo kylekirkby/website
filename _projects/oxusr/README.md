@@ -4,10 +4,10 @@ permalink: "/projects/OxusR/"
 description: |-
     OxusR is a Digital Signage project that is designed to optimize bandwidth consumption by avoiding redundant downloads on the same network.
 images:
-  - OXUS_FrontPage.png
-  - OXUS_Image1.png
-  - OXUS_Image2.png
-  - OXUS_Image3.png
+  - /assets/images/projects/oxusr/OXUS_FrontPage.png
+  - /assets/images/projects/oxusr/OXUS_Image1.png
+  - /assets/images/projects/oxusr/OXUS_Image2.png
+  - /assets/images/projects/oxusr/OXUS_Image3.png
 categories:
 - dragonboard410c
 ---

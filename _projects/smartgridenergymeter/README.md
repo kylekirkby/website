@@ -4,11 +4,11 @@ permalink: "/projects/SmartGridEnergyMeter/"
 description: |-
     This project aims to implement a smart grid system using DragonBoard™ 410c, Bluetooth® Low Energy Beacons and Current Accumulators. It is designed to eliminate a complex and large network infrastructure setup.
 images:
-  - SmartGrid_FrontPage.png
-  - SmartGrid_Image1.png
-  - SmartGrid_Image2.png
-  - SmartGrid_Image3.png
-  - SmartGrid_Image4.png
+  - /assets/images/projects/smartgridenergymeter/SmartGrid_FrontPage.png
+  - /assets/images/projects/smartgridenergymeter/SmartGrid_Image1.png
+  - /assets/images/projects/smartgridenergymeter/SmartGrid_Image2.png
+  - /assets/images/projects/smartgridenergymeter/SmartGrid_Image3.png
+  - /assets/images/projects/smartgridenergymeter/SmartGrid_Image4.png
 categories:
 - dragonboard410c
 ---

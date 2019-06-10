@@ -11,6 +11,8 @@ image:
     path: /assets/images/projects/ros-thumb.png
     name: ros-thumb.png
     thumb: ros-thumb.png
+images:
+  - /assets/images/projects/rosproductionubuntucore/ros-thumb.png
 ---
 # ROS prototype to production on Ubuntu Core
 

@@ -4,9 +4,9 @@ permalink: "/projects/SmartLighting/"
 description: |-
     This project is designed to connect lighting systems from different areas, such as home, office building and hotel, to the cloud for centralized management and control. The goal is to reduce energy consumption and manage lighting efficiency.
 images:
-  - SmartLight_FrontPage.png
-  - SmartLight_Image1.png
-  - SmartLight_Image2.png
+  - /assets/images/projects/smartlighting/SmartLight_FrontPage.png
+  - /assets/images/projects/smartlighting/SmartLight_Image1.png
+  - /assets/images/projects/smartlighting/SmartLight_Image2.png
 categories:
 - dragonboard410c
 ---

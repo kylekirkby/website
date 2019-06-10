@@ -5,8 +5,8 @@ permalink: "/projects/DLNAMediaServer/"
 description: |-
     If you live in the 21st century, you have hundreds if not thousands of photos, music, and movies sitting on a hard drive in your house, but no easy way to access them. Wouldn’t it be nice to make all those photos and home movies available to everyone in the house at any time? Or how about playing all your own music over the home network? Solve for a personal need to allow family members to view all family photos and videos from any local device in the home.
 images:
-  - DLNAServer_FrontPage1.png
-  - DLNAServer_FrontPage2.png
+  - /assets/images/projects/dlnamediaserver/DLNAServer_FrontPage1.png
+  - /assets/images/projects/dlnamediaserver/DLNAServer_FrontPage2.png
 image:
   path: /assets/images/projects/dlnamediaserver-thumb.png
   name: dlnamediaserver-thumb.png

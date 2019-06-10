@@ -2,14 +2,14 @@
 title: ReSeNi
 permalink: "/projects/reseni/"
 images:
-  - visual5.png
-  - logo.png
-  - pcb-ce.png
-  - pcb-module.png
-  - visual1.png
-  - visual2.png
-  - visual3.png
-  - visual4.png
+  - /assets/images/projects/reseni/visual5.png
+  - /assets/images/projects/reseni/logo.png
+  - /assets/images/projects/reseni/pcb-ce.png
+  - /assets/images/projects/reseni/pcb-module.png
+  - /assets/images/projects/reseni/visual1.png
+  - /assets/images/projects/reseni/visual2.png
+  - /assets/images/projects/reseni/visual3.png
+  - /assets/images/projects/reseni/visual4.png
 ---
 
 

@@ -5,8 +5,8 @@ description: |-
     Ricardo Salveti shared his recently converted home brewing operation. By taking a basic
     home brew system and adding a Consumer Edition 96Board, some sensors and the appropriate software, you can essentially automate a variety of functions that makes brewing the perfect beer much easier and streamlined.
 images:
-  - 96Brews_FrontPage.png
-  - 96Brews_Video_OpenHours.png
+  - /assets/images/projects/96brews/96Brews_FrontPage.png
+  - /assets/images/projects/96brews/96Brews_Video_OpenHours.png
 image:
     path: /assets/images/projects/96brews-thumb.png
     name: 96brews-thumb.png

@@ -4,7 +4,7 @@ permalink: "/projects/HandGestureRecognition/"
 description: |-
     The project is designed to implement a program that can recognize simple hand gestures of rock, paper and scissors on a DragonBoard™ 410c development board from Arrow Electronics that is hosting a Debian operating system, using Python development language and Open CV vision processing library.
 images:
-  - HandGestureRecognition_FrontPage.png
+  - /assets/images/projects/handgesturerecognition/HandGestureRecognition_FrontPage.png
 categories:
 - dragonboard410c
 ---

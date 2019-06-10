@@ -9,8 +9,8 @@ image:
   name: AWSIoT_FrontPage.png
   thumb: awsiot-thumb.png
 images:
-    - awsiot-thumb.png
-    - AWSIoT_FrontPage.png
+    - /assets/images/projects/awsiot/awsiot-thumb.png
+    - /assets/images/projects/awsiot/AWSIoT_FrontPage.png
 categories:
 - dragonboard410c
 ---

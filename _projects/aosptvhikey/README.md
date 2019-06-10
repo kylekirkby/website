@@ -4,8 +4,8 @@ permalink: "/projects/AOSPTVHikey/"
 description: |-
     Taking clues from how we used to build Android TV for the Raspberry Pi, I was able to get a AOSP TV build running on both the Hikey bords.
 images:
-  - AOSPTV_FrontPage.png
-  - AOSPTV_Video_Demo.png
+  - /assets/images/projects/aosptvhikey/AOSPTV_FrontPage.png
+  - /assets/images/projects/aosptvhikey/AOSPTV_Video_Demo.png
 categories:
 - Hikey960
 - Hikey

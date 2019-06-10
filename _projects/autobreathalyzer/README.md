@@ -4,8 +4,8 @@ permalink: "/projects/AutoBreathalyzer/"
 description: |-
     This project uses a STEREN digital Breathalyzer with the DragonBoard™ 410c from Arrow Electronics, and is designed to disable the starter of the vehicle if a high level of alcohol is detected from the driver. The system is also designed to send a “Come get me I am drunk” SMS to a pre-programmed number using a Shield GSM that is compatible with Arduino.
 images:
-  - AutoBreathalyzer_Demo.png
-  - AutoBreathalyzer_FrontPage.png
+  - /assets/images/projects/autobreathalyzer/AutoBreathalyzer_Demo.png
+  - /assets/images/projects/autobreathalyzer/AutoBreathalyzer_FrontPage.png
 image:
   path: /assets/images/projects/ab-thumb.png
   name: ab-thumb.png

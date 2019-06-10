@@ -5,7 +5,7 @@ permalink: "/projects/WinIoTNetwork/"
 description: |-
     Set up a network connection between your DragonBoard™ 410c and your development computer enabling installation of applications, file copying, or changing settings.
 images:
-  - WindowsIoT_FrontPage.png
+  - /assets/images/projects/winiotnetwork/WindowsIoT_FrontPage.png
 categories:
 - dragonboard410c
 ---

@@ -4,10 +4,10 @@ permalink: "/projects/GPIOSTEMWorkshop/"
 description: |-
     How can students aspire to jobs they don’t know exist? That is the challenge that the UK charity STEM Team East is trying to solve for students living in the east of England.
 images:
-  - GPIOWorkshop_FrontPage.png
-  - GPIOWorkshop_Image1.png
-  - GPIOWorkshop_Image2.png
-  - GPIOWorkshop_Image3.png
+  - /assets/images/projects/gpiostemworkshop/GPIOWorkshop_FrontPage.png
+  - /assets/images/projects/gpiostemworkshop/GPIOWorkshop_Image1.png
+  - /assets/images/projects/gpiostemworkshop/GPIOWorkshop_Image2.png
+  - /assets/images/projects/gpiostemworkshop/GPIOWorkshop_Image3.png
 categories:
 - dragonboard410c
 ---

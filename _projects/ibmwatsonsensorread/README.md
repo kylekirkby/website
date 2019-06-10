@@ -4,16 +4,16 @@ permalink: "/projects/IBMWatsonSensorRead/"
 description: |-
     This project is part of a technical workshop at IBM InterConnect 2016. The slide deck from this workshop  provides an overview of the DragonBoard 410c, Arrow Electronics (the manufacturer of the kit), and the Watson IoT platform. It then covers how to connect the DragonBoard 410c to the IBM Watson IoT platform, as well as more detailed information about the hardware and software libraries.
 images:
-  - IBMWatson_FrontPage.png
-  - IBMWatson_Image1.png
-  - IBMWatson_Image2.png
-  - IBMWatson_Image3.png
-  - IBMWatson_Image4.png
-  - IBMWatson_Image5.png
-  - IBMWatson_Image6.png
-  - IBMWatson_Image7.png
-  - IBMWatson_Image8.png
-  - IBMWatson_Image9.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_FrontPage.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image1.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image2.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image3.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image4.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image5.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image6.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image7.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image8.png
+  - /assets/images/projects/ibmwatsonsensorread/IBMWatson_Image9.png
 categories:
 - dragonboard410c
 ---

@@ -2,14 +2,14 @@
 title: Safe2Med
 permalink: "/projects/safe2med/"
 images:
-  - BlocosAppDiagrama-1.png
-  - diagram.png
-  - output1.png
-  - output2.png
-  - SaudeCerta.png
-  - sponsor.png
-  - visual1.png
-  - visual2.png
+  - /assets/images/projects/safe2med/BlocosAppDiagrama-1.png
+  - /assets/images/projects/safe2med/diagram.png
+  - /assets/images/projects/safe2med/output1.png
+  - /assets/images/projects/safe2med/output2.png
+  - /assets/images/projects/safe2med/SaudeCerta.png
+  - /assets/images/projects/safe2med/sponsor.png
+  - /assets/images/projects/safe2med/visual1.png
+  - /assets/images/projects/safe2med/visual2.png
 ---
 
 # Safe2Med

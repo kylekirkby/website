@@ -4,10 +4,10 @@ permalink: /projects/3DPrintCase/
 description: |-
     Use OpenSCAD to create a 3D printed case for DragonBoard 410c. OpenSCAD is free software for creating solid 3D CAD objects and is available for Linux/UNIX, MS Windows, and Mac OS X.
 images:
-  - 3DPrintCase_FrontPage.png
-  - 3DPrintCase_Image1.png
-  - 3DPrintCase_Image2.png
-  - 3DPrintCase_Image3.png
+  - /assets/images/projects/3dprintcase/3DPrintCase_FrontPage.png
+  - /assets/images/projects/3dprintcase/3DPrintCase_Image1.png
+  - /assets/images/projects/3dprintcase/3DPrintCase_Image2.png
+  - /assets/images/projects/3dprintcase/3DPrintCase_Image3.png
 categories:
 - dragonboard410c
 image:

@@ -4,7 +4,7 @@ permalink: "/projects/SmartWeatherDisplaySystem/"
 description: |-
     This project is a smart home system design based on the DragonBoard™ 410c from Arrow Electronics. It utilizes the DragonBoard 410c network support function and built-in Wi-Fi module for Internet connection. It is designed to use strong data processing power for the display of time, pictures, and sensor values.
 images:
-  - SmartWeather_FrontPage.png
+  - /assets/images/projects/smartweatherdisplaysystem/SmartWeather_FrontPage.png
 ---
 # Smart Weather Display System
 

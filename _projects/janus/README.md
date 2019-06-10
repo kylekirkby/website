@@ -4,10 +4,10 @@ permalink: "/projects/Janus/"
 description: |-
     This project was designed with backwards compatibility in mind. With technology evolving rapidly, there are people in parts of our lives that are not necessarily chasing after everything new. Janus is designed to operate with any phone that has SMS capabilities, so even our grandparents who still prefer feature phones and want a smart door will not be left out.
 images:
-  - Janus_FrontPage.png
-  - Janus_Image1.png
-  - Janus_Image2.png
-  - Janus_Video_Image.png
+  - /assets/images/projects/janus/Janus_FrontPage.png
+  - /assets/images/projects/janus/Janus_Image1.png
+  - /assets/images/projects/janus/Janus_Image2.png
+  - /assets/images/projects/janus/Janus_Video_Image.png
 categories:
 - dragonboard410c
 ---

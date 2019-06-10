@@ -2,13 +2,13 @@
 title:  BeeInformed
 permalink: "/projects/beeinformed/"
 images:
-    - chart.png
-    - diagram.png
-    - header.png
-    - visual-1.png
-    - visual-2.png
-    - visual-3.png
-    - visual-4.png
+    - /assets/images/projects/beeinformed/chart.png
+    - /assets/images/projects/beeinformed/diagram.png
+    - /assets/images/projects/beeinformed/header.png
+    - /assets/images/projects/beeinformed/visual-1.png
+    - /assets/images/projects/beeinformed/visual-2.png
+    - /assets/images/projects/beeinformed/visual-3.png
+    - /assets/images/projects/beeinformed/visual-4.png
 image:
     path: /assets/images/projects/beeinformed-thumb.png
     name: beeinformed-thumb.png

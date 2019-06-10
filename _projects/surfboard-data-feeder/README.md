@@ -2,7 +2,7 @@
 title: Surfboard Data Feeder
 permalink: "/projects/surfboard-data-feeder/"
 images:
-  - diagram.png
+  - /assets/images/projects/surfboard-data-feeder/diagram.png
 ---
 
 # Surfboard Data Feeder

@@ -5,8 +5,8 @@ permalink: "/projects/Docker96BoardsCE/"
 description: |-
     Docker is “an open source project to pack, ship and run any application as a lightweight container.” It’s a very interesting tool from the Enterprise space, and docker.com lists its use cases as Continuous integration, DevOps, Big Data and Infrastructure Optimization.
 images:
-  - Docker_FrontPage.jpg
-  - Docker_Video_OpenHours.png
+  - /assets/images/projects/docker96boardsce/Docker_FrontPage.jpg
+  - /assets/images/projects/docker96boardsce/Docker_Video_OpenHours.png
 image:
     path: /assets/images/projects/docker96-thumb.png
     name: docker96-thumb.png

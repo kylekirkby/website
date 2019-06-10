@@ -4,8 +4,8 @@ permalink: "/projects/SmartCap/"
 description: |-
     Smart Cap is an assistant for the visually impaired that is designed to narrate the description of a scene via pictures from a webcam.
 images:
-  - SmartCap_FrontPage.png
-  - SmartCap_Image1.png
+  - /assets/images/projects/smartcap/SmartCap_FrontPage.png
+  - /assets/images/projects/smartcap/SmartCap_Image1.png
 categories:
 - dragonboard410c
 ---

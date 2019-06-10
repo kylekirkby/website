@@ -3,8 +3,8 @@ title:  Tourmalet
 permalink: "/projects/Tourmalet/"
 description: Portable Multimedia player with a 1080p touchscreen using Dragonboard410c
 images:
-  - thumb.jpg
-  - tourmalet_share_image.png
+  - /assets/images/projects/tourmalet/thumb.jpg
+  - /assets/images/projects/tourmalet/tourmalet_share_image.png
 image:
     path: /assets/images/projects/tourmalet_share_image.png
     name: tourmalet_share_image.png

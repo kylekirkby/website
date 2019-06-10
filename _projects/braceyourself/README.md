@@ -4,9 +4,9 @@ permalink: "/projects/BraceYourself/"
 description: |-
     This guide will walk you through the steps required to build an "S.O.S.“, a bracelet that works as an emergency call in situations of imminent risk. Its use is targeted for people that tend to go to places like bars, malls and restaurants frequently; it is a bracelet with a sensor that sends an alarm and its location to the security guards of the place to a certain beacon when a particular sequence is applied to the sensor.
 images:
-  - BraceYourself_FrontPage.png
-  - BraceYourself_Video_Demo.png
-  - BraceYourself_Video_Presentation.png
+  - /assets/images/projects/braceyourself/BraceYourself_FrontPage.png
+  - /assets/images/projects/braceyourself/BraceYourself_Video_Demo.png
+  - /assets/images/projects/braceyourself/BraceYourself_Video_Presentation.png
 image:
   path: /assets/images/projects/braceyourself-thumb.png
   name: braceyourself-thumb.png

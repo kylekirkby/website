@@ -2,7 +2,7 @@
 title: Dragon Wally
 permalink: "/projects/dragon-wally/"
 images:
-    - visual1.png
+    - /assets/images/projects/dragon-wally/visual1.png
 image:
     path: /assets/images/projects/dragonwally-thumb.png
     name: dragonwally-thumb.png

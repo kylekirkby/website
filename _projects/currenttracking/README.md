@@ -5,7 +5,7 @@ permalink: "/projects/CurrentTracking/"
 description: |-
     Do you want to know if a device went haywire or working just fine? In this project, a simple AI system is used to show that with current metering, you can find it, and be informed when something goes wrong.
 images:
-  - CurrentTracking_FrontPage.png
+  - /assets/images/projects/currenttracking/CurrentTracking_FrontPage.png
 image:
     path: /assets/images/projects/currenttracking-thumb.png
     name: currenttracking-thumb.png
