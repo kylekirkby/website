@@ -147,7 +147,7 @@ MW
 you can buy the sensor board alone from seeed for less than arrow
 ```
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 
 
 

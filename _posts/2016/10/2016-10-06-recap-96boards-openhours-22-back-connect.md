@@ -137,7 +137,7 @@ Please remember, if you get stuck, there are resources to help you through the i
 
 
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 
 
 

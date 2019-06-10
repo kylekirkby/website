@@ -1341,7 +1341,7 @@ Subscribe to 96Boards youtube for OpenHours live streem next week
 
 
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 
 
 

@@ -1053,7 +1053,7 @@ RW
 I have to leave now. Have a great day...
 
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 
 
 

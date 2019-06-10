@@ -1,6 +1,4 @@
----
----
-// Bootstrap3 Overrides
+// Bootstrap Overrides
 @import "app/overrides";
 // Bootstrap3 Includes
 @import 'bootstrap';
@@ -8,5 +6,7 @@
 // Core Includes
 @import 'core';
 // App Includes
-@import "app/search";
 @import "app/custom";
+@import "app/products";
+@import "app/compare-96boards";
+@import "app/bootstrap-multiselect";

@@ -34,7 +34,7 @@ tags:
 
 On April 10th, Qualcomm Brazil launched a partnership program in IoT Solutions development, using the Qualcomm DragonBoard 410c.
 
-![96Boards in Brazil – Country wide IoT Partnership Image]({% asset_path "96boards-brazil-iot-img-1.jpg" %}){:class="img-responsive lazyload"}
+![96Boards in Brazil – Country wide IoT Partnership Image](/assets/images/blog/96boards-brazil-iot-img-1.jpg){:class="img-responsive lazyload"}
 
 The program will select 20 groups (1 to 3 people) to develop an IoT project using 96Boards outfitted with Qualcomm technologies. While all are welcome to apply for a spot in this amazing partnership program, I am told the organizer will mostly be keeping an eye out for the following types of participants:
 
@@ -115,9 +115,9 @@ We at 96Boards would like to thank Qualcomm Brazil and all of the other partners
 
 Qualcomm, Embarcados, Arrow Electronics, Baita Aceleradora, 96Boards and Linaro
 
-![OpenHours Image]({% asset_path "qualcomm-logo.png" %}){:class="img-responsive lazyload"}
-![OpenHours Image]({% asset_path "arrow_electronics2.png" %}){:class="img-responsive lazyload"}
-![OpenHours Image]({% asset_path "logo-embarcados-escura.png" %}){:class="img-responsive lazyload"}
-![OpenHours Image]({% asset_path "baita_logo_hd.png" %}){:class="img-responsive lazyload"}
-![OpenHours Image]({% asset_path "Linaro_TransparentLogo.png" %}){:class="img-responsive lazyload"}
-![OpenHours Image]({% asset_path "96boards-logo.png" %}){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/qualcomm-logo.png){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/arrow_electronics2.png){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/logo-embarcados-escura.png){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/baita_logo_hd.png){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/Linaro_TransparentLogo.png){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/96boards-logo.png){:class="img-responsive lazyload"}

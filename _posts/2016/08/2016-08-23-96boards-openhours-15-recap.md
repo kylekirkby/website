@@ -485,7 +485,7 @@ Contribution Policy [https://github.com/96boards/documentation/blob/master/CONTR
 
 
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 
 
 

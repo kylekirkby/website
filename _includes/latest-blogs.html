@@ -14,55 +14,19 @@
                             {% if post.image.thumb %}
                                 {% capture image_path %}{{site.blog_images_dir}}thumbs/{{post.image.thumb}}{% endcapture %}
                                 {% capture full_path %}/{{site.blog_images_dir}}thumbs/{{post.image.thumb}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% elsif post.image.name %}
                                 {% capture image_path %}{{site.blog_images_dir}}{{post.image.name}}{% endcapture %}
                                 {% capture full_path %}/{{site.blog_images_dir}}{{post.image.name}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% elsif post.image.path %}
                                 {% capture image_path %}{{post.image.path | remove_first: "/"}}{% endcapture %}
                                 {% capture full_path %}{{post.image.path}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% else %}
                                 {% capture image_path %}{{site.data.settings.placeholder | remove_first: '/'}}{% endcapture %}
                                 {% capture full_path %}{{site.data.settings.placeholder}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% endif %}
                             </a>
                         </div>
@@ -78,11 +42,8 @@
                         </div>
                         <div class="row author">
                             <div class="col-xs-3 author-image">
-                                <div class="home-author-image" style="background-image: url('{% if author.image %}
-                        {% asset_path '{{author.image.name}}' %}
-                    {% else %}
-                        {% asset_path 'avatar-placeholder.png' %}
-                    {% endif %}')"></div>
+                                <div class="home-author-image" style="background-image: url('{% if author.image %}{{author.image.path}}{% else %}
+                                /assets/images/blog/avatar-placeholder.png{% endif %}')"></div>
                             </div>
                             <div class="col-xs-9">
                                 <h3>{% if author.username %}{{author.username}}{% else %}{{post.author}}{% endif %}</h3>
@@ -114,55 +75,19 @@
                             {% if post.image.thumb %}
                                 {% capture image_path %}{{site.blog_images_dir}}thumbs/{{post.image.thumb}}{% endcapture %}
                                 {% capture full_path %}/{{site.blog_images_dir}}thumbs/{{post.image.thumb}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% elsif post.image.name %}
                                 {% capture image_path %}{{site.blog_images_dir}}{{post.image.name}}{% endcapture %}
                                 {% capture full_path %}/{{site.blog_images_dir}}{{post.image.name}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% elsif post.image.path %}
                                 {% capture image_path %}{{post.image.path | remove_first: "/"}}{% endcapture %}
                                 {% capture full_path %}{{post.image.path}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% else %}
                                 {% capture image_path %}{{site.data.settings.placeholder | remove_first: '/'}}{% endcapture %}
                                 {% capture full_path %}{{site.data.settings.placeholder}}{% endcapture %}
-                                {% responsive_image_block %}
-                                template: _includes/thumb.html
-                                path: {{ image_path }}
-                                fullpath: {{ full_path }}
-                                class: blog-featured-image-home
-                                {% if post.title %}
-                                title: {{ post.title | slugify: "ascii"}}
-                                alt: {{ post.title | slugify: "ascii"}}
-                                {% endif %}
-                                {% endresponsive_image_block %}
+                                {% include thumb-image.html path=full_path alt=post.title %}
                             {% endif %}
                         </a>
                     </div>
@@ -178,10 +103,8 @@
                     </div>
                     <div class="row author">
                         <div class="col-xs-3 author-image">
-                            <div class="home-author-image" style="background-image: url('{% if author.image %}
-                    {% asset_path '{{author.image.name}}' %}
-                {% else %}
-                    {% asset_path 'avatar-placeholder.png' %}
+                            <div class="home-author-image" style="background-image: url('{% if author.image %}{{author.image.path}}{% else %}
+                    /assets/images/blog/avatar-placeholder.png
                 {% endif %}')"></div>
                         </div>
                         <div class="col-xs-9">

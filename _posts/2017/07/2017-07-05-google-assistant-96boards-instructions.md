@@ -126,7 +126,7 @@ Open the [Activity Controls Page](https://myaccount.google.com/activitycontrols)
 3.  Device Information
 4.  Voice and Audio Activity
 
-![Google Assistant Instruction for 96boards Image 2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==){:class="img-responsive lazyload" data-src="{% asset_path 'ga-img-2.png' %}}
+![Google Assistant Instruction for 96boards Image 2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==){:class="img-responsive lazyload" data-src="/assets/images/blog/ga-img-2.png"}
 
 # **Software Dependencies**
 

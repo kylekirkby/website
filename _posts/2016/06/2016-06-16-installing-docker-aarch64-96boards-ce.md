@@ -53,7 +53,7 @@ tags:
 # About Docker
 
 
-![Docker]({% asset_path "docker-img-1.png" %}){:class="img-responsive lazyload"}
+![Docker](/assets/images/blog/docker-img-1.png){:class="img-responsive lazyload"}
 
 Docker is “an open source project to pack, ship and run any application as a lightweight container.” It’s a very interesting tool from the Enterprise space, and docker.com lists its usecases as:
 
@@ -80,11 +80,11 @@ I had my own specific further reasons to use Docker on an embedded board. I was 
 
 I aim to be using Docker in the coming months to deploy some applications onto my various CE Edition 96Boards without having to run multiple builds/installations. As a taster, here is a screenshot of 64 Docker containers, each with a separate container instance of Ubuntu, all started up and running on the Dragonboard.
 
-![Screenshot (78)]({% asset_path "docker-img-2.png" %}){:class="img-responsive lazyload"}
+![Screenshot (78)](/assets/images/blog/docker-img-2.png){:class="img-responsive lazyload"}
 
 As discussed in the 96Boards  (06/16/16) OpenHours session. All sessions are recorded and available in the [96Boards YouTube Channel](https://www.youtube.com/playlist?list=PL-NF6S9MM_W1QBjUc2B5Pg502bz7qslxk).
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 
 
 We look forward to seeing you at [Open Hours](/openhours/) every Thursday, where we discuss current blogs along with other pressing questions amongst a fun crowd of 96Boards users and developers over coffee. I hope to you see you there!

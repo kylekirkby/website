@@ -60,7 +60,7 @@ image: /assets/images/contact-social-media-share-image.png
 
 Make sure the image you specified is located [here](https://github.com/96boards/website/tree/master/assets/images) in the repo.
 
-This will NOT work if you add the image to the Jekyll Assets Images folder - \_assets/images. This is due to the fact that images in this folder must be outputted specifically by calling it through liquid e.g `{% asset_path "contact-social-media-share-image.png" %}` and this `CANNOT` be done in YAML.
+This will NOT work if you add the image to the Jekyll Assets Images folder - \_assets/images. This is due to the fact that images in this folder must be outputted specifically by calling it through liquid e.g `{% "contact-social-media-share-image.png" %}` and this `CANNOT` be done in YAML.
 
 ### Per Jekyll Collection <a name="per-collection-share-image"></a>
 

@@ -686,5 +686,5 @@ It looked to me like Android will dynamically choose profile (e.g. if its a phon
 
 
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 [n](/blog/installing-docker-aarch64-96boards-ce/)

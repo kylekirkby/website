@@ -126,15 +126,7 @@ js-package: products-compare
                                     {% capture full_path
                                     %}../../product/{{board.product_specification}}/{{product-url[2]}}/images/{{board.product_images[0]}}{%
                                     endcapture %}
-                                    {% responsive_image_block %}
-                                    template: _includes/thumb.html
-                                    path: {{ image_path }}
-                                    fullpath: {{ full_path }}
-                                    {% if board.title %}
-                                    title: {{ board.title}}
-                                    alt: {{ board.title }}
-                                    {% endif %}
-                                    {% endresponsive_image_block %}
+                                    {% include thumb-image.html path=full_path alt=each.title %}
                                 </a>
                             </td>
                             <td class="board" data-attr="price" data-board="{{board.url | replace: "/product/", "" | replace: "/", ""}}"
@@ -218,15 +210,7 @@ js-package: products-compare
                                     {% capture full_path
                                     %}../../product/{{board.product_specification}}/{{product-url[2]}}/images/{{board.product_images[0]}}{%
                                     endcapture %}
-                                    {% responsive_image_block %}
-                                    template: _includes/thumb.html
-                                    path: {{ image_path }}
-                                    fullpath: {{ full_path }}
-                                    {% if board.title %}
-                                    title: {{ board.title}}
-                                    alt: {{ board.title }}
-                                    {% endif %}
-                                    {% endresponsive_image_block %}
+                                    {% include thumb-image.html path=full_path alt=each.title %}
                                 </a>
                             </td>
                             {% endfor %}

@@ -73,10 +73,10 @@ $ git clone https://github.com/96boards-projects/magic8
 
 Now that you have the libraries and the source code ready, let’s begin with hardware connections. Always make sure that the power supply is NOT connected while making or modifying any connections. First, connect the Sensors Mezzanine board onto the DragonBoard via the low-speed expansion connector on both boards. Instructions to do that can be found [here](https://github.com/96boards/Sensor_Mezzanine_Getting_Started/blob/master/README.md). Use the Grove Universal 4 pin cables to connect the LCD to I2C0 and the touch sensor module on GPIO G3\. That’s it! We’re all set to run our application.
 
-![8Ball Digital Hourglass Image 1]({% asset_path "8-ball-img-1.png" %}){:class="img-responsive lazyload"}
-![8Ball Digital Hourglass Image 2]({% asset_path "8-ball-img-2.jpg" %}){:class="img-responsive lazyload"}
+![8Ball Digital Hourglass Image 1](/assets/images/blog/8-ball-img-1.png){:class="img-responsive lazyload"}
+![8Ball Digital Hourglass Image 2](/assets/images/blog/8-ball-img-2.jpg){:class="img-responsive lazyload"}
 
-![8Ball Digital Hourglass Image Feature]({% asset_path "8-ball-feature.jpg" %}){:class="img-responsive lazyload"}
+![8Ball Digital Hourglass Image Feature](/assets/images/blog/8-ball-feature.jpg){:class="img-responsive lazyload"}
 
 If you change the working directory to hourglass, you will find a makefile and the source code. You can go through the code to get an idea of what exactly is happening. While including the .h files, make sure that the path to the library matches the one in your system. Now, you can go ahead to build and execute the program.
 
@@ -120,6 +120,6 @@ For 96Boards announcements and fun, be sure to visit and follow all of our socia
 
 "Every week at 4:00pm UTC the 96Boards team engages in the ultimate community driven experience – ["OpenHours](/openhours/)". All are welcome to join LIVE, for free, to interact as equal members in the 96Boards tribe of enthusiasts and developers. This is your channel/means to bring up interesting/controversial topics, explore new possibilities around the 96Boards brand, and pretty much anything else you would like to talk about! You can also just simply join to hang out and have a quick chat while you enjoy your morning coffee/tea 😀
 
-![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}
 
 "Don’t forget, if you get stuck, 96Boards offers many helpful resources. Feel free to check out the ["96Boards forums](https://discuss.96boards.org/)", ["96Boards documenation landing page](https://github.com/96boards/documentation/)", and/or ["Freenode IRC](http://webchat.freenode.net/?channels=%2396boards) "channel #96Boards and #OpenHours (there are many ways to access IRC, this website is one of them). Dig around the docs and website, create a new forum thread, and/or post a question in the chat, myself or one of the 96Boards developers would love to help!

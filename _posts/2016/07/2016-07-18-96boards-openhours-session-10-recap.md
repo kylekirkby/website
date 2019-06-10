@@ -133,5 +133,5 @@ I'm a gsoc student in BeagleBoard is interested  board and Embedded
 
 [https://www.96boards.org/documentation/consumer/guides/compare_96boards_ce.md.html](https://www.96boards.org/documentation/consumer/guides/compare_96boards_ce.md.html)
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 [n](/blog/installing-docker-aarch64-96boards-ce/)

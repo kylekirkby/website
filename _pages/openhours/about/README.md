@@ -49,7 +49,7 @@ We look forward to talking with you.
 <div class="container">
 <div class="row">
 <div class="col-sm-3">
-<div class="openhours-about-image" style="background-image:url({% asset_path 'robert-small.jpg' %});"></div>
+<div class="openhours-about-image" style="background-image:url(/assets/images/authors/robert-small.jpg);"></div>
 <ul class="name-and-title text-center">
 <li>Robert Wolf</li>
 <li>OpenHours Host</li>
@@ -66,7 +66,7 @@ Prior to his work with Linaro/96Boards, he worked for the Qualcomm Institute at 
 
 <div class="row">
 <div class="col-sm-3">
-<div class="openhours-about-image" style="background-image:url({% asset_path 'profile-placeholder.jpg' %});"></div>
+<div class="openhours-about-image" style="background-image:url(/assets/images/authors/profile-placeholder.jpg);"></div>
 <ul class="name-and-title text-center">
 <li>Kyle Kirkby</li>
 <li>Web Developer and Backend Support</li>
@@ -74,7 +74,7 @@ Prior to his work with Linaro/96Boards, he worked for the Qualcomm Institute at 
 </div>
 <div class="col-sm-9" markdown="1">
 
-Kyle is a 21 year old Web Developer working for Linaro and has great interests in Web Development, Cars and Magic.
+Kyle is a 22 year old Web Developer working for Linaro and has great interests in Web Development, Cars and Magic.
 
 Kyle have been practicing the art of illusions since around 12. He particularly likes up close magic and anything that is totally impromptu and improvised.
 
@@ -87,7 +87,7 @@ Around the same time (age 12) he also started teaching himself how to build webs
 
 <div class="row">
 <div class="col-sm-3">
-<div class="openhours-about-image" style="background-image:url({% asset_path 'sahaj-small.jpg' %});"></div>
+<div class="openhours-about-image" style="background-image:url(/assets/images/authors/sahaj-small.jpg);"></div>
 <ul class="name-and-title text-center">
 <li>Sahaj Sarup</li>
 <li>Producer & 96Boards Specialist</li>
@@ -102,7 +102,7 @@ Sahaj has a background in Computer Applications engineering and have previously 
 
 <div class="row">
 <div class="col-sm-3">
-<div class="openhours-about-image" style="background-image:url({% asset_path 'mani-small.jpg' %});"></div>
+<div class="openhours-about-image" style="background-image:url(/assets/images/authors/mani-small.jpg);"></div>
 <ul class="name-and-title text-center">
 <li>Manivannan Sadhasivam</li>
 <li>96Boards Specialist</li>
@@ -117,7 +117,7 @@ Mani has a Bachelors degree in Electronics and Communication Engineering from KS
 
 <div class="row">
 <div class="col-sm-3">
-<div class="openhours-about-image" style="background-image:url({% asset_path 'daniel-small.jpg' %});"></div>
+<div class="openhours-about-image" style="background-image:url(/assets/images/authors/daniel-small.jpg);"></div>
 <ul class="name-and-title text-center">
 <li>Daniel Thompson</li>
 <li>96Boards Specialist and Support</li>

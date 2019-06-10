@@ -2000,7 +2000,7 @@ Here so some inspirational ideas on how to use 96Boards or even DtagonBaordshttp
 
 
 
-[![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}](/openhours/)
+[![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}](/openhours/)
 
 
 

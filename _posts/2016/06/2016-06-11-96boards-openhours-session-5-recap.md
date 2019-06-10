@@ -107,7 +107,7 @@ Be sure to stay tune in next week where we will discuss installing Docker on aar
 
 Please remember, if you get stuck, there are resources to help you through the installation. Feel free to check out the [96Boards forums](https://discuss.96boards.org/), [96Boards wiki](https://github.com/96boards/documentation/wiki), or [Freenode IRC](http://webchat.freenode.net/?channels=%2396boards) channel #96boards (there are many ways to access IRC, this website is one of them). Dig around the wiki, create a new forum thread, and/or post a question in the chat.
 
-[![OpenHours-04]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"} ](/openhours/)
+[![OpenHours-04](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"} ](/openhours/)
 
 [**In this series**](/blog/tag/)
 

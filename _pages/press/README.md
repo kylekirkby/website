@@ -12,31 +12,31 @@ Steve Taylor, Director of Marketing media@linaro.org
 ## Downloads for press
 <div class="container">
 <div class="col-md-3">
-    <img data-src="{% asset_path '96Boards-Logo-Consumer.png' %}" class="img-responsive lazyload"
+    <img data-src="/assets/images/blog/96Boards-Logo-Consumer.png" class="img-responsive lazyload"
     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 <div class="col-md-3">
-    <img data-src="{% asset_path '96Boards-Logo-Enterprise.png' %}" class="img-responsive lazyload"
+    <img data-src="/assets/images/blog/96Boards-Logo-Enterprise.png" class="img-responsive lazyload"
     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 <div class="col-md-3">
-    <img data-src="{% asset_path '96Boards-Logo-Partner.png' %}" class="img-responsive lazyload"
+    <img data-src="/assets/images/blog/96Boards-Logo-Partner.png" class="img-responsive lazyload"
     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 <div class="col-md-3">
-    <img data-src="{% asset_path '96Boards-Logo-outline.png' %}" class="img-responsive lazyload"
+    <img data-src="/assets/images/blog/96Boards-Logo-outline.png" class="img-responsive lazyload"
     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 <div class="col-md-3">
-    <img data-src="{% asset_path '96Boards-Logo-Standard-White.png' %}" class="img-responsive lazyload"
+    <img data-src="/assets/images/blog/96Boards-Logo-Standard-White.png" class="img-responsive lazyload"
     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 <div class="col-md-3">
-    <img data-src="{% asset_path '96Boards-Logo-Standard.png' %}" class="img-responsive lazyload"
+    <img data-src="/assets/images/blog/96Boards-Logo-Standard.png" class="img-responsive lazyload"
     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 <div class="col-md-3">
-    <img data-src="{% asset_path '96Boards-Logo-Outline01pt.png' %}" class="img-responsive lazyload"
+    <img data-src="/assets/images/blog/96Boards-Logo-Outline01pt.png" class="img-responsive lazyload"
     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 

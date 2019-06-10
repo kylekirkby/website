@@ -36,9 +36,9 @@ I appreciate it for people updating the files or enhancing them.
 
 Please have fun developing controlling application on 96Boards with this cases and enjoy building cool prototypes.
 
-![96boards Image 1]({% asset_path "96boards-3d-printer-img-1.png" %}){:class="img-responsive lazyload"}
-![96boards Image 2]({% asset_path "96boards-3d-printer-img-2.jpg" %}){:class="img-responsive lazyload"}
-![96boards Image 3]({% asset_path "96boards-3d-printer-img-3.jpg" %}){:class="img-responsive lazyload"}
-![96boards Image 4]({% asset_path "96boards-3d-printer-img-4.jpg" %}){:class="img-responsive lazyload"}
-![96boards Image 5]({% asset_path "96boards-3d-printer-img-5.jpg" %}){:class="img-responsive lazyload"}
-![96boards Image 6]({% asset_path "96boards-3d-printer-img-6.jpg" %}){:class="img-responsive lazyload"}
+![96boards Image 1](/assets/images/blog/96boards-3d-printer-img-1.png){:class="img-responsive lazyload"}
+![96boards Image 2](/assets/images/blog/96boards-3d-printer-img-2.jpg){:class="img-responsive lazyload"}
+![96boards Image 3](/assets/images/blog/96boards-3d-printer-img-3.jpg){:class="img-responsive lazyload"}
+![96boards Image 4](/assets/images/blog/96boards-3d-printer-img-4.jpg){:class="img-responsive lazyload"}
+![96boards Image 5](/assets/images/blog/96boards-3d-printer-img-5.jpg){:class="img-responsive lazyload"}
+![96boards Image 6](/assets/images/blog/96boards-3d-printer-img-6.jpg){:class="img-responsive lazyload"}

@@ -139,17 +139,17 @@ Using the “sensor mezzanine” is probably another excellent alternative to co
 
 Let's look into installing libupm and libmraa libraries to be used with Android OS. Is this possible? :D
 
-![GPIO Pinout Android DB410c Image]({% asset_path "GPIOPinoutAndroidDB410c.png" %}){:class="img-responsive lazyload"}
+![GPIO Pinout Android DB410c Image](/assets/images/blog/GPIOPinoutAndroidDB410c.png){:class="img-responsive lazyload"}
 
 Fig. 1 GPIO connection definition chart
 
 Courtesy of Coursera: Internet of Things: Sensing and Actuation From Devices
 
-![DB410c AudioMezz Image]({% asset_path "DB410cAudioMezz.jpg" %}){:class="img-responsive lazyload"}
+![DB410c AudioMezz Image](/assets/images/blog/DB410cAudioMezz.jpg){:class="img-responsive lazyload"}
 
 Fig. 2 DragonBoard connected to the GPIO using a transistor as output driver.
 
-![DB410c AudioMezz Image]({% asset_path "schematicAudioMezz.png" %}){:class="img-responsive lazyload"}
+![DB410c AudioMezz Image](/assets/images/blog/schematicAudioMezz.png){:class="img-responsive lazyload"}
 
 Fig. 3 Schematic of the transistor drivers used in the Sensors Mezzanine (same for Audio mezzanine)
 
@@ -157,11 +157,11 @@ Fig. 3 Schematic of the transistor drivers used in the Sensors Mezzanine (same f
 
 Either connection works direct from DragonBoard 1.8V. or 3.3V or 5V. The possibility to drive 4 LEDs by using the HCT03 after the level shifter 3 or 5 VDC.
 
-![Digitallogic Image]({% asset_path "Digitallogic.png" %}){:class="img-responsive lazyload"}
+![Digitallogic Image](/assets/images/blog/Digitallogic.png){:class="img-responsive lazyload"}
 
 Connection example for one gate. For the 47HCT03 the input must be connected after the level shifter. The component wont switch properly at 1.8V.
 
-![paperengineer Image]({% asset_path "paperengineer.png" %}){:class="img-responsive lazyload"}
+![paperengineer Image](/assets/images/blog/paperengineer.png){:class="img-responsive lazyload"}
 
 
 # **Resources**
@@ -175,6 +175,6 @@ For those of you who prefer a mailing list, we have just the one for you! You ca
 
 Every week at 4:00pm UTC the 96Boards team engages in the ultimate community driven experience - [OpenHours](/openhours/). All are welcome to join LIVE, for free, to interact as equal members in the 96Boards tribe of enthusiasts and developers. This is your channel/means to bring up interesting/controversial topics, explore new possibilities around the 96Boards brand, and pretty much anything else you would like to talk about! You can also just simply join to hang out and have a quick chat while you enjoy your morning coffee/tea :D
 
-![OpenHours Image]({% asset_path "OpenHours.png" %}){:class="img-responsive lazyload"}
+![OpenHours Image](/assets/images/blog/OpenHours.png){:class="img-responsive lazyload"}
 
 Don’t forget, if you get stuck, 96Boards offers many helpful resources. Feel free to check out the [96Boards forums](https://discuss.96boards.org/), [96Boards documenation landing page](https://github.com/96boards/documentation/), and/or [Freenode IRC](http://webchat.freenode.net/?channels=%2396boards) channel #96Boards and #OpenHours (there are many ways to access IRC, this website is one of them). Dig around the docs and website, create a new forum thread, and/or post a question in the chat, myself or one of the 96Boards developers would love to help!

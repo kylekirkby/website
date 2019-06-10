@@ -77,7 +77,7 @@ General purpose Input/Output pins or GPIO are pins that go generally unused by d
 
 Here it is important to note the GPIO pins are configurable, and can be set as an input or output. With that, we see values can be written onto, or read from these interfaces (GPIO), typically as discrete values of 0 and 1 (High or Low). Being able to read and write values to these pins allows simple and quick communication with peripheral devices. These devices in turn help the 96Boards to interpret and communicate with the environment or other devices. All Single Board Computers are not the same, and will usually differ in many ways. 96Boards have 12 GPIO pins, one of which is multi-purpose.
 
-![GPIO-S]({% asset_path "ic2-devices-img-1.png" %}){:class="img-responsive lazyload"}
+![GPIO-S](/assets/images/blog/ic2-devices-img-1.png){:class="img-responsive lazyload"}
 
 **Pros**
 
@@ -146,7 +146,7 @@ The Inter-integrated Circuit (I2C, also read as “eye squared see”) is essent
 
 Source: [https://en.wikipedia.org/wiki/I%C2%B2C](https://en.wikipedia.org/wiki/I%C2%B2C)
 
-![Ic2 Devices Image 2]({% asset_path "ic2-devices-img-2.png" %}){:class="img-responsive lazyload"}
+![Ic2 Devices Image 2](/assets/images/blog/ic2-devices-img-2.png){:class="img-responsive lazyload"}
 
 **Pros ([Source](http://www.allaboutcircuits.com/technical-articles/introduction-to-the-i2c-bus/))**
 
@@ -216,9 +216,9 @@ I2C pins are especially good to use when programming more complex sensors or act
 
 In the past, GPIO and I2C code had to be different, when programming for different boards. By using the libmraa and libupm libraries, the code can be unified across a variety of Single Board Computers. These libraries allow us to eliminate code redundancies and create higher quality software.
 
-![Ic2 Devices Image 3]({% asset_path "ic2-devices-img-3.png" %}){:class="img-responsive lazyload"}
+![Ic2 Devices Image 3](/assets/images/blog/ic2-devices-img-3.png){:class="img-responsive lazyload"}
 
-![Ic2 Devices Image 4]({% asset_path "ic2-devices-img-4.png" %}){:class="img-responsive lazyload"}
+![Ic2 Devices Image 4](/assets/images/blog/ic2-devices-img-4.png){:class="img-responsive lazyload"}
 
 
 ## How to unify code for all sensors on GPIO and I2C?
@@ -226,12 +226,12 @@ In the past, GPIO and I2C code had to be different, when programming for differe
 
 Bringing in an abstraction layer will allow for multiple boards to access these interfaces (without the need of multiple libraries). The abstraction layer can also be looked at as a translation layer. This layer is used to translate each board’s GPIO values to a generic set of command variables. The layer is translated differently though used in the same way by each board. You can see this layer in the diagrams below (labeled as Common API layer). I would suggest reading more about the abstraction layer by visiting it’s [wiki page](https://en.wikipedia.org/wiki/Abstraction_layer).
 
-![Ic2 Devices Image 5]({% asset_path "ic2-devices-img-5.png" %}){:class="img-responsive lazyload"}
+![Ic2 Devices Image 5](/assets/images/blog/ic2-devices-img-5.png){:class="img-responsive lazyload"}
 
 Which part is libmraa and which part is libupm?
 Good isn’t it? (^\_^)
 
-![Ic2 Devices Image 6]({% asset_path "ic2-devices-img-6.png" %}){:class="img-responsive lazyload"}
+![Ic2 Devices Image 6](/assets/images/blog/ic2-devices-img-6.png){:class="img-responsive lazyload"}
 
 A complete list of UPM enabled sensors can be found here:
 [http://iotdk.intel.com/docs/master/upm/modules.html](http://iotdk.intel.com/docs/master/upm/modules.html)
@@ -278,7 +278,7 @@ For using WiFi simply connect to a network by using the desktop UI. Choose your 
 
 You can always connect to the Internet by using a USB type-A to ethernet adapter. This can be seen in the picture below.
 
-![Ic2 Devices Image 7]({% asset_path "ic2-devices-img-7.jpg" %}){:class="img-responsive lazyload"}
+![Ic2 Devices Image 7](/assets/images/blog/ic2-devices-img-7.jpg){:class="img-responsive lazyload"}
 
 USB-Ethernet dongle to the USB-Type-A connector.
 
@@ -330,7 +330,7 @@ The command above will install the following four packages:
 ## Connecting Grove RGB backlight LCD
 
 
-![where-to-connect-lcd]({% asset_path "ic2-devices-img-8.png" %}){:class="img-responsive lazyload"}
+![where-to-connect-lcd](/assets/images/blog/ic2-devices-img-8.png){:class="img-responsive lazyload"}
 
 
 ## Sample program #1: Grove RGB backlight LCD module using I2C
@@ -470,7 +470,7 @@ Once you have successfully written your code and compiled your program, you are 
 ## Connecting Grove LED module
 
 
-![where-to-connect-led]({% asset_path "ic2-devices-img-9.png" %}){:class="img-responsive lazyload"}
+![where-to-connect-led](/assets/images/blog/ic2-devices-img-9.png){:class="img-responsive lazyload"}
 
 
 ## Sample Program #2: LED module using GPIO
