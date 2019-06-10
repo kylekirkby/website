@@ -1,0 +1,29 @@
+- title: Consumer Edition
+  shortcode: CE
+  image: /assets/images/content/96Boards-Logo_Consumer-small.png
+  url: /products/ce/
+  description: >
+    The 96Boards Consumer Edition (CE) specification targets the mobile, embedded and digital home segments. The boards below are all certified conformig to this specification, which defines a fixed set and location.
+  specification_pdf: https://linaro.co/ce-specification
+- title: Enterprise Edition
+  shortcode: EE
+  image: /assets/images/content/96Boards-Logo_Enterprise-small.png
+  url: /products/ee/
+  description: >
+    The 96Boards Enterprise Edition (EE) specification targets the networking and server segments. A first version of this specification is available here. Please subscribe below if you wish to be notified when the first board becomes available.
+  specification_pdf: https://linaro.co/ee-specification
+- title: IoT Edition
+  shortcode: IE
+  image: /assets/images/content/96Boards-Logo_Enterprise-small.png
+  url: /products/ie/
+  description: >
+    The 96Boards IoT Edition (IE) platform is designed to support development in the Internet of Things (IoT) space.
+  specification_pdf: https://linaro.co/ie-specification
+- title: Mezzanine Edition
+  shortcode: mezzanine
+  image: /assets/images/33333333content/96Boards-Logo_Partner-small.png
+  url: /products/mezzanine/
+  description: >
+    The 96Boards IoT Edition (IE) platform is designed to support development in the Internet of Things (IoT) space.
+  specification_pdf: https://github.com/96boards/documentation/raw/master/mezzanine/files/mezzanine-design-guidelines.pdf
+
