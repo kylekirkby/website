@@ -4,7 +4,7 @@ author: Sahaj Sarup
 date: 2018-03-15 01:01:54+00:00
 image:
     featured: true
-    path: /assets/images/carbon-rover.jpg
+    path: /assets/images/blog/carbon-rover.jpg
     name: iew-2018.jpg
     thumb: carbon-rover-thumb.jpg
 categories: blog
