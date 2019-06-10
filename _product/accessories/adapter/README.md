@@ -26,7 +26,6 @@ accessories:
       - Driverless for Windows 98SE/ME/2000/XP/Server 2003/Vista/7/8/Linux/Mac OSX.
       - USB bus-powered, no external power required.
       - Reverse Compliant with USB Audio Device Class Specification 1.0
-
   accessory_order_link:
       - http://linaro.co/28SI3hW
   accessory_search_term: USB Stereo Sound Adapter
