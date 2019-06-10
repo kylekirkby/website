@@ -4,7 +4,7 @@ author: Sahaj Sarup
 date: 2018-02-12 01:01:54+00:00
 image:
     featured: true
-    path: /assets/images/blog/carbon-rover-rev-2-thumb.jpg
+    path: /assets/images/blog/carbon-rover-rev-2.jpg
     name: carbon-rover-rev-2.jpg
     thumb: carbon-rover-rev-2-thumb.jpg
 categories: blog

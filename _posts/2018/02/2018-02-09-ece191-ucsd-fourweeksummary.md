@@ -4,7 +4,7 @@ author: ECE 191 Team I Winter 2018
 date: 2018-02-01 01:01:54+00:00
 image:
     featured: true
-    path: /assets/images/Build-Internet-Things.png
+    path: /assets/images/blog/Build-Internet-Things.png
     name: Build-Internet-Things.png
     thumb: coursera-logo-thumb.png
 categories: blog

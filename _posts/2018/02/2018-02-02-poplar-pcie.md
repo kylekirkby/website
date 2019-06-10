@@ -4,7 +4,7 @@ author: Sahaj Sarup
 date: 2018-02-02 01:01:54+00:00
 image:
     featured: true
-    path: /assets/images/poplar-pcie-thumb.jpg
+    path: /assets/images/blog/poplar-pcie-thumb.jpg
     name: poplar-pcie.jpg
     thumb: poplar-pcie-thumb.jpg
 categories: blog
