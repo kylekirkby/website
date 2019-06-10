@@ -29,6 +29,7 @@ jumbotron:
 
 No guest this week! Sorry, no interview this time; however, we will still have some fun stuff to talk about. Sahaj is working on a big new project (featuring the RB3 - DragonBoard 845c), there are some cool new mezzanines and boards in the pipeline to talk about, and Robert might be dropping his Maker Faire review blog. Along with all of this, we will of course take any 96Boards questions, review some burning forum questions and probably go on a few tangents as the show goes on...
 
+
 Bring you questions & coffee and/or beer (water or juice :-P) and tune in at our regular time of 4:00p UTC on Thursday! See you there.
 
 ### What is 96Boards OpenHours?
