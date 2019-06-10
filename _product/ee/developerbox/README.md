@@ -11,8 +11,8 @@ product_specification: ee
 featured_product_order: 2
 is_featured: true
 product_images:
-  - developerbox-front-sd.png
-  - developerbox-back-sd.png
+  - /assets/images/products/ee/developerbox/developerbox-front-sd.png
+  - /assets/images/products/ee/developerbox/developerbox-back-sd.png
 tab_menu:
     - tab_title: Developerbox (Socionext)
       tab_link: /product/developerbox/

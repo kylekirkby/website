@@ -15,7 +15,7 @@ product_long_desc: |-
     grove ports which can be used to connect rich Grove functional modules, which will make your
     application more complicated and attracting.
 product_images:
-  - "audio-mezzanine.png"
+  - "/assets/images/products/mezzanine/audio-mezzanine/audio-mezzanine.png"
 mezzanine_features:
   - "6 x On-board Grove connector"
   - "USB to UART conversion for access to the 410c system console."

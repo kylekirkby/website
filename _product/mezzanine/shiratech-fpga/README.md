@@ -22,8 +22,8 @@ product_short_desc: "Introducing the Shiratech FPGA Mezzanine, the most flexible
 product_long_desc: |-
     Introducing the Shiratech FPGA Mezzanine, the most flexible and affordable embedded environment for the Intel MAX-10 FPGA, lets you connect to any interface.
 product_images:
-    - shiratech-fpga-front-sd.jpg
-    - shiratech-fpga-back-sd.jpg
+    - /assets/images/products/mezzanine/shiratech-fpga/shiratech-fpga-front-sd.jpg
+    - /assets/images/products/mezzanine/shiratech-fpga/shiratech-fpga-back-sd.jpg
 product_buy_links:
   -
     link-title: Arrow

@@ -23,12 +23,12 @@ product_short_desc: Most technologically advanced AeroCore expansion board with 
 product_long_desc: |-
     Customize the AreoCore 2 for 96Boards to your project’s specific needs in Geppetto D2O. Add functionality or remove unused components with the ease of a drag-and-drop interface.
 product_images:
-  - "AeroCore-2-Mezzanine-front.jpg"
-  - "AeroCore-2-Mezzanine-back.jpg"
-  - "AeroCore-2-Mezzanine-angle.jpg"
-  - "AeroCore-2-Mezzanine-additional3.jpg"
-  - "AeroCore-2-Mezzanine-additional2.jpg"
-  - "AeroCore-2-Mezzanine-additional.jpg"
+  - "/assets/images/products/mezzanine/aerocore2/AeroCore-2-Mezzanine-front.jpg"
+  - "/assets/images/products/mezzanine/aerocore2/AeroCore-2-Mezzanine-back.jpg"
+  - "/assets/images/products/mezzanine/aerocore2/AeroCore-2-Mezzanine-angle.jpg"
+  - "/assets/images/products/mezzanine/aerocore2/AeroCore-2-Mezzanine-additional3.jpg"
+  - "/assets/images/products/mezzanine/aerocore2/AeroCore-2-Mezzanine-additional2.jpg"
+  - "/assets/images/products/mezzanine/aerocore2/AeroCore-2-Mezzanine-additional.jpg"
 mezzanine_features:
   - "Barometer Included"
   - "Controller Area Network (CAN) - For use in applications employing the CAN serial communication physical layer in accordance with the ISO 11898 standard."

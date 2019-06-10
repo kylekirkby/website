@@ -25,9 +25,9 @@ product_long_desc: |-
     performance Mali T720 GPU, making it capable of running any commercial set-top solution based on Linux or Android. Its high performance
     specification also supports a premium user experience with up to H.265 HEVC decoding of 4K video at 60 frames per second.
 product_images:
-  - Poplar-Board-Front-Web-500x330.jpg
-  - Poplar-Board-Side-Web-500x330.jpg
-  - Poplar-Board-Back-Web-500x330.jpg
+  - /assets/images/products/ee/poplar/Poplar-Board-Front-Web-500x330.jpg
+  - /assets/images/products/ee/poplar/Poplar-Board-Side-Web-500x330.jpg
+  - /assets/images/products/ee/poplar/Poplar-Board-Back-Web-500x330.jpg
 product_buy_links:
   -
     link-title: "Aliexpress"

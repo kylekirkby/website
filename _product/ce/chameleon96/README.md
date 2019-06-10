@@ -14,8 +14,8 @@ product_specification: ce
 featured_product_order: 2
 is_featured: true
 product_images:
-    - chameleon96-front-small.png
-    - chameleon96-back-small.png
+    - /assets/images/products/ce/chameleon96/chameleon96-front-small.png
+    - /assets/images/products/ce/chameleon96/chameleon96-back-small.png
 # Sub Tab Menu Items
 tab_menu:
         - tab_title: Chameleon96

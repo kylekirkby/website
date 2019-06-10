@@ -13,8 +13,8 @@ featured_product_order: 2
 display_product: true
 is_featured: true
 product_images:
-    - hichips-parrot-front-sd.jpg
-    - hichips-parrot-back-sd.jpg
+    - /assets/images/products/ce/parrot/hichips-parrot-front-sd.jpg
+    - /assets/images/products/ce/parrot/hichips-parrot-back-sd.jpg
 product_tab_menu:
     - tab_title: Getting Started
       tab_link: /documentation/consumer/parrot/getting-started/

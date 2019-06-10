@@ -24,7 +24,7 @@ product_long_desc: |-
     possibilities through the Arduino™ Uno Revision 3 and Grove™connectivity. The integrated ST-Link debugger facilitates software development,
     drag-and-drop programming and provides direct access to the ARM mbed on-line resources.
 product_images:
-  - STM32_Front.png
+  - /assets/images/products/mezzanine/stm32/STM32_Front.png
 product_buy_links:
   -
     link-title: Arrow Electronics

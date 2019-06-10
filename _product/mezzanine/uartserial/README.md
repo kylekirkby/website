@@ -27,15 +27,15 @@ product_long_desc: |-
 
     Since it uses the FT230X chip from FTDI, when it is connected to your PC over USB, it appears as a normal UART interface on a PC, Macintosh or Linux computer with an FTDI UART driver installed.
 product_images:
-  - uart-mezzanine-front-sd.png
-  - uart-mezzanine-back-sd.png
-  - 96boards-uarts-seed3.jpg
-  - 96boards-uarts-seed2.jpg
-  - 96boards-uarts-seed.jpg
-  - 96boards-uarts-seed-for-accesories-page.jpg
-  - UARTplugIMG_3673.jpg
-  - 96boards-uarts-seed4-crop.jpg
-  - 96boards-uarts-seed4.jpg
+  - /assets/images/products/mezzanine/uartserial/uart-mezzanine-front-sd.png
+  - /assets/images/products/mezzanine/uartserial/uart-mezzanine-back-sd.png
+  - /assets/images/products/mezzanine/uartserial/96boards-uarts-seed3.jpg
+  - /assets/images/products/mezzanine/uartserial/96boards-uarts-seed2.jpg
+  - /assets/images/products/mezzanine/uartserial/96boards-uarts-seed.jpg
+  - /assets/images/products/mezzanine/uartserial/96boards-uarts-seed-for-accesories-page.jpg
+  - /assets/images/products/mezzanine/uartserial/UARTplugIMG_3673.jpg
+  - /assets/images/products/mezzanine/uartserial/96boards-uarts-seed4-crop.jpg
+  - /assets/images/products/mezzanine/uartserial/96boards-uarts-seed4.jpg
 mezzanine_features:
   - Attaches to 96Boards low-speed (LS) expansion connector
   - FT230X USB to UART adapter chip

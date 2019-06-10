@@ -13,8 +13,8 @@ product_specification: ce
 featured_product_order: 2
 is_featured: true
 product_images:
-  - dragonboard820c-front-sd.png
-  - dragonboard820c-back-sd.png
+  - /assets/images/products/ce/dragonboard820c/dragonboard820c-front-sd.png
+  - /assets/images/products/ce/dragonboard820c/dragonboard820c-back-sd.png
 tab_menu:
     - tab_title: DragonBoard™ 820c (Arrow)
       tab_link: /product/dragonboard820c/

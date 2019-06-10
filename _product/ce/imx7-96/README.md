@@ -11,8 +11,8 @@ is_featured: true
 product_short_desc: The iMX7-96 Development Board is a 96Boards compliant CE board based on the i.MX7 series of SoCs.
 product_specification: ce
 product_images:
-  - iMX7-96-front.jpg
-  - iMX7-96-back.jpg
+  - /assets/images/products/ce/imx7-96/iMX7-96-front.jpg
+  - /assets/images/products/ce/imx7-96/iMX7-96-back.jpg
 tab_menu:
     - tab_title: iMX7-96 Development Board
       tab_link: /product/imx7-96/

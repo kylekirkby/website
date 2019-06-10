@@ -26,8 +26,8 @@ product_short_desc: "Cortex-M4 chip with 96Boards IE Specification"
 product_long_desc: |-
     Nitrogen is a 96Boards compliant IoT Edition board which aims to provide economic and compact BLE solutions for a variety of IoT projects. This board features the nRF52832 microcontroller by Nordic, 64kb of RAM and 512kb of onboard flash storage. An easily accessible 40 pin low-speed expansion connector and onboard antenna offer a wide variety of IO on the much desired 96Boards IoT form factor.
 product_images:
-  - nitrogen-front-web.jpg
-  - nitrogen-back-web.jpg
+  - /assets/images/products/ie/nitrogen/nitrogen-front-web.jpg
+  - /assets/images/products/ie/nitrogen/nitrogen-back-web.jpg
 product_buy_links:
   -
     link-title: "Buy Nitrogen"

@@ -36,11 +36,11 @@ product_buy_links:
     from: Lenovator.com
     type: board
 product_images:
-  - Hikey-Lemaker-front-web.png
-  - HiKey_LeMaker_back.jpg
-  - HiKey_LeMaker_angle3.jpg
-  - HiKey_LeMaker_angle2.jpg
-  - HiKey_LeMaker_angle.jpg
+  - /assets/images/products/ce/hikey/Hikey-Lemaker-front-web.png
+  - /assets/images/products/ce/hikey/HiKey_LeMaker_back.jpg
+  - /assets/images/products/ce/hikey/HiKey_LeMaker_angle3.jpg
+  - /assets/images/products/ce/hikey/HiKey_LeMaker_angle2.jpg
+  - /assets/images/products/ce/hikey/HiKey_LeMaker_angle.jpg
 product_long_desc: |-
     The HiKey board was the first board to be certified 96Boards Consumer Edition compatible,
     1GB and 2GB variants are available from LeMaker. The board is based around the HiSilicon Kirin 620  SoC and also

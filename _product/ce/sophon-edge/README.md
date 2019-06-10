@@ -13,8 +13,8 @@ featured_product_order: 2
 display_product: true
 is_featured: true
 product_images:
-    - sophon-front-sd.png
-    - sophon-back-sd.png
+    - /assets/images/products/ce/sophon-edge/sophon-front-sd.png
+    - /assets/images/products/ce/sophon-edge/sophon-back-sd.png
 tab_menu:
     - tab_title: Sophon Edge
       tab_link: /product/sophon-edge/

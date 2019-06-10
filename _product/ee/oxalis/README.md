@@ -13,10 +13,10 @@ featured_product_order: 2
 display_product: true
 is_featured: true
 product_images:
-    - oxalis-front-sd.JPG
-    - oxalis-back-sd.JPG
-    - oxalis-som-front-sd.JPG
-    - oxalis-som-back-sd.JPG
+    - /assets/images/products/ee/oxalis/oxalis-front-sd.JPG
+    - /assets/images/products/ee/oxalis/oxalis-back-sd.JPG
+    - /assets/images/products/ee/oxalis/oxalis-som-front-sd.JPG
+    - /assets/images/products/ee/oxalis/oxalis-som-back-sd.JPG
 tab_menu:
     - tab_title: Oxalis
       tab_link: /product/oxalis/

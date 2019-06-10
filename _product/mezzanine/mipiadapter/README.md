@@ -12,16 +12,16 @@ product_short_desc: Hardware compatible MIPI mezzanine and GPIO breakout for 96B
 product_long_desc: |-
     This MIPI adapter board is primarily designed for Dragonboard 410c, though it is hardware compatible with other Consumer Edition 96Boards. With this adapter, you can easily  integrate image sensors into your camera projects. This mezzanine is ideal for surveillance, video conference and even robots projects. It provides multiple interfaces, and gives you a wide range of choices for selecting different camera boards/modules.
 product_images:
-  - "MIPI-adapter-Front.png"
-  - "MIPI adapter-Back.png"
-  - "MIPI adapter with Dual module.png"
-  - "MIPI adapter with OV7251.png"
-  - "MIPI adapter with OV8865.png"
-  - "MIPI adapter with OV13850.png"
-  - "MIPI adapter with mipi bridge.png"
-  - "MIPI adapter with V024.png"
-  - "MIPI adapter with PI.png"
-  - "MIPI adapter with AR0130-134.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI-adapter-Front.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter-Back.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with Dual module.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with OV7251.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with OV8865.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with OV13850.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with mipi bridge.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with V024.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with PI.png"
+  - "/assets/images/products/mezzanine/mipiadapter/MIPI adapter with AR0130-134.png"
 mezzanine_features:
   - "Two CSI2 channels support(CSI0:4lane;CSI1:2lane)"
   - "Camera module supported:OV5645/OV5640"

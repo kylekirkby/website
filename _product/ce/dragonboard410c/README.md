@@ -13,8 +13,8 @@ product_specification: ce
 featured_product_order: 2
 is_featured: true
 product_images:
-  - DragonBoard-UpdatedImages-front.png
-  - DragonBoard-UpdatedImages-back.png
+  - /assets/images/products/ce/dragonboard410c/DragonBoard-UpdatedImages-front.png
+  - /assets/images/products/ce/dragonboard410c/DragonBoard-UpdatedImages-back.png
 # Sub Tab Menu Items
 tab_menu:
     - tab_title: DragonBoard™ 410c (Arrow)

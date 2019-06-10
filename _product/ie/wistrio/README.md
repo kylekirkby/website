@@ -13,8 +13,8 @@ featured_product_order: 6
 display_product: true
 is_featured: true
 product_images:
-  - wistrio-antenna-sd-front.png
-  - wistrio-antenna-sd-back.png
+  - /assets/images/products/ie/wistrio/wistrio-antenna-sd-front.png
+  - /assets/images/products/ie/wistrio/wistrio-antenna-sd-back.png
 tab_menu:
   - tab_title: WisTrio
     tab_link: /product/wistrio/

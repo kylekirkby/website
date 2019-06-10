@@ -12,8 +12,8 @@ featured_product_order: 2
 display_product: true
 is_featured: true
 product_images:
-  - rock960c-front-sd.png
-  - rock960c-back-sd.png
+  - /assets/images/products/ce/rock960c/rock960c-front-sd.png
+  - /assets/images/products/ce/rock960c/rock960c-back-sd.png
 tab_menu:
     - tab_title: Rock960c (Vamrs)
       tab_link: /product/rock960c/

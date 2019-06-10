@@ -36,10 +36,10 @@ product_long_desc: |-
     and connectivity peripherals are included to interface to cameras, touch-screen displays and
     MMC/SD cards. It also fully supports wireless communication, including WLAN, Bluetooth and GPS.
 product_images:
-  - Helio-X20-front.png
-  - Helio-X20-back.png
-  - Helio-X20-side-one.png
-  - Helio-X20-side-two.png
+  - /assets/images/products/ce/mediatek-x20/Helio-X20-front.png
+  - /assets/images/products/ce/mediatek-x20/Helio-X20-back.png
+  - /assets/images/products/ce/mediatek-x20/Helio-X20-side-one.png
+  - /assets/images/products/ce/mediatek-x20/Helio-X20-side-two.png
 product_third_party_images:
   - link: /documentation/consumer/mediatekx20/downloads/third-party/aosp/
     title: AOSP

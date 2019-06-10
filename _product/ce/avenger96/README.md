@@ -13,8 +13,8 @@ product_specification: ce
 featured_product_order: 2
 is_featured: true
 product_images:
-  - /assets/images/products/avenger96/avenger96-front-sd.png
-  - /assets/images/products/avenger96/avenger96-back-sd.png
+  - /assets/images/products/ce/avenger96/avenger96-front-sd.png
+  - /assets/images/products/ce/avenger96/avenger96-back-sd.png
 # Sub Tab Menu Items
 tab_menu:
     - tab_title: Avenger96

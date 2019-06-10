@@ -25,9 +25,9 @@ product_long_desc: |-
     In addition to standard 96Boards features, the board will offer integrated HDMI with Ultra 4K output,
     Full HD video capture (1080P@60fps H.264) and ARM TrustZone® security support.
 product_images:
-  - 96b-0-bubblegum96-actions-ucrobotics-1.png
-  - 96b-0-bubblegum96-actions-ucrobotics-4.png
-  - 96b-0-bubblegum96-actions-ucrobotics-5.png
+  - /assets/images/products/ce/bubblegum-96/96b-0-bubblegum96-actions-ucrobotics-1.png
+  - /assets/images/products/ce/bubblegum-96/96b-0-bubblegum96-actions-ucrobotics-4.png
+  - /assets/images/products/ce/bubblegum-96/96b-0-bubblegum96-actions-ucrobotics-5.png
 product_os:
   - title: Debian
     link: /documentation/consumer/bubblegum-96/downloads/debian.md.html

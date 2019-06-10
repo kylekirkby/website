@@ -25,8 +25,8 @@ product_long_desc: |-
     performance Mali T720 GPU, making it capable of running any commercial set-top solution based on Linux or Android. Its high performance
     specification also supports a premium user experience with up to H.265 HEVC decoding of 4K video at 60 frames per second.
 product_images:
-  - poplar-hoperun-front-sd.jpg
-  - poplar-hoperun-back-sd.jpg
+  - /assets/images/products/ee/poplar-hoperun/poplar-hoperun-front-sd.jpg
+  - /assets/images/products/ee/poplar-hoperun/poplar-hoperun-back-sd.jpg
 product_buy_links:
   -
     link-title: "HiHope"

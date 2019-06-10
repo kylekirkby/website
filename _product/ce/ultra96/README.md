@@ -13,19 +13,19 @@ featured_product_order: 2
 display_product: true
 is_featured: true
 product_images:
-  - ultra96-front-sd.png
-  - ultra96-back-sd.png
-  - ultra96-angle1-sd.png
-  - ultra96-angle2-sd.png
-  - ultra96-angle3-sd.png
-  - ultra96-angle4-sd.png
-  - ultra96-angle5-sd.png
-  - ultra96-angle6-sd.png
-  - ultra96-angle7-sd.png
-  - ultra96-angle8-sd.png
-  - ultra96-angle9-sd.png
-  - ultra96-angle10-sd.png
-  - ultra96-angle11-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-front-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-back-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle1-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle2-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle3-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle4-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle5-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle6-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle7-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle8-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle9-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle10-sd.png
+  - /assets/images/products/ce/ultra96/ultra96-angle11-sd.png
 tab_menu:
     - tab_title: Ultra96
       tab_link: /product/ultra96/

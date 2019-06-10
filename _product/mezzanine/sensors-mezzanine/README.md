@@ -22,9 +22,9 @@ product_long_desc: |-
 
     On the board you will find sockets for 18 Grove modules, an Arduino-compatible shield socket, and two SPI headers. It also includes an ATMega328 microcontroller which can be programmed from the Arduino IDE and will run most Arduino UNO sketches unchanged. The shield connector and half of the Grove sockets are controlled by the microcontroller, while the remaining Grove sockets are controlled directly by the baseboard. This makes it a flexible prototyping platform which supports both direct control of devices from application software, and offload to a microcontroller. It also provides a USB-UART interface to access the base board’s serial console.
 product_images:
-    - 96Boards-Sensors-2.jpg
-    - 96Boards-Sensors-3.jpg
-    - 96Boards-Sensors-1.jpg
+    - /assets/images/products/mezzanine/sensors-mezzanine/96Boards-Sensors-2.jpg
+    - /assets/images/products/mezzanine/sensors-mezzanine/96Boards-Sensors-3.jpg
+    - /assets/images/products/mezzanine/sensors-mezzanine/96Boards-Sensors-1.jpg
 mezzanine_features:
   - "Compatible with 96Boards ce and EE baseboards"
   - "Integrated Arduino-compatible ATMEGA328 microcontroller"

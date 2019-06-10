@@ -22,8 +22,8 @@ product_short_desc: "The new Shiratech Bosch Sensor Mezzanine adds full sensing 
 product_long_desc: |-
     The new Shiratech Bosch Sensor Mezzanine adds full sensing capabilities to the 96boards platform, including pressure and environmental sensors, accelerometer, magnometer and a hub sensor for design and evaluation purposes. The following Bosch sensors are assembled on the mezzanine: BHI160 – Sensor HUB with integrated IMU, BMM150 – Geomagnetic sensor, BMP388 – Digital pressure sensor, BME680 – Gas, pressure, temperature and humidity sensor, BMA456 – Triaxial acceleration sensor
 product_images:
-  - shiratech-bosch-front-sd.jpg
-  - shiratech-bosch-back-sd.jpg
+  - /assets/images/products/mezzanine/shiratech-bosch/shiratech-bosch-front-sd.jpg
+  - /assets/images/products/mezzanine/shiratech-bosch/shiratech-bosch-back-sd.jpg
 product_buy_links:
   -
     link-title: Arrow

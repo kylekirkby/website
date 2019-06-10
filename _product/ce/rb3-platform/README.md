@@ -13,13 +13,13 @@ product_specification: ce
 featured_product_order: 2
 is_featured: true
 product_images:
-  - db845c-front-sd.png
-  - db845c-back-sd.png
-  - rb3-frame1-sd.jpg
-  - rb3-frame2-sd.jpg
-  - rb3-som-sd.jpg
-  - rb3-acc1-sd.jpeg
-  - rb3-acc2-sd.jpg
+  - /assets/images/products/ce/rb3-platform/db845c-front-sd.png
+  - /assets/images/products/ce/rb3-platform/db845c-back-sd.png
+  - /assets/images/products/ce/rb3-platform/rb3-frame1-sd.jpg
+  - /assets/images/products/ce/rb3-platform/rb3-frame2-sd.jpg
+  - /assets/images/products/ce/rb3-platform/rb3-som-sd.jpg
+  - /assets/images/products/ce/rb3-platform/rb3-acc1-sd.jpeg
+  - /assets/images/products/ce/rb3-platform/rb3-acc2-sd.jpg
 # Sub Tab Menu Items
 tab_menu:
     - tab_title: Qualcomm® Robotics RB3 Development Platform

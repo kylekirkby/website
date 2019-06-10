@@ -34,8 +34,8 @@ product_long_desc: |-
     Linaro and Huawei are also working on the Linux 4.9 based Android Common kernel and maintaining support for the Kirin 960 SoC in the mainline kernel.org
     tree, allowing for the availability of multiple Linux distributions for this board in the future.
 product_images:
-  - hikey-960-SD-front.jpg
-  - hikey-960-SD-back.jpg
+  - /assets/images/products/ce/hikey960/hikey-960-SD-front.jpg
+  - /assets/images/products/ce/hikey960/hikey-960-SD-back.jpg
 product_mezzanine:
   - title: Link Sprite Sensor Kit
     link: /product/linkspritesensorkit/

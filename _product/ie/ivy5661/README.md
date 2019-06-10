@@ -13,8 +13,8 @@ featured_product_order: 6
 display_product: true
 is_featured: true
 product_images:
-  - ivy5661-sd-front.png
-  - ivy5661-sd-back.png
+  - /assets/images/products/ie/ivy5661/ivy5661-sd-front.png
+  - /assets/images/products/ie/ivy5661/ivy5661-sd-back.png
 tab_menu:
   - tab_title: Ivy5661
     tab_link: /product/ivy5661/

@@ -18,8 +18,8 @@ tab_menu:
       tab_position: 2
       tab_align_right: true
 product_images:
-  - hikey-circuitco-top.png
-  - hikey-circuitco-back.png
+  - /assets/images/products/ce/hikey-circuitco/hikey-circuitco-top.png
+  - /assets/images/products/ce/hikey-circuitco/hikey-circuitco-back.png
 is_featured: false
 product_short_desc: "Board based on HiSilicon Kirin 6220 processor"
 product_support_link: "https://discuss.96boards.org/c/products/hikey/"

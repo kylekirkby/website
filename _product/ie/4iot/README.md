@@ -36,8 +36,8 @@ product_long_desc: |-
     with the Adreno™ 306 GPU, integrated ISP with up to 13 MP camera support,
     and 1080p HD video playback and capture with H.264 (AVC).
 product_images:
-  - 4iot-front-sd.jpg
-  - 4iot-back-sd.jpg
+  - /assets/images/products/ie/4iot/4iot-front-sd.jpg
+  - /assets/images/products/ie/4iot/4iot-back-sd.jpg
 product_buy_links:
   -
     link-title: "4-IoT (Arrow)"
