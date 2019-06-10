@@ -233,10 +233,10 @@ assets:
     - assets/css/
 
 # Sass Configuration for the site styles
-# sass:
-#     style: compressed
-#     load_paths:
-#         - assets/css
+sass:
+    style: compressed
+    load_paths:
+        - assets/css
         
 
 paginate_path: /blog/:num/
