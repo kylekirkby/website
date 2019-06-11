@@ -30,7 +30,7 @@
                             <h3 class="featured-product-title">{{product.title}}</h3>
                             {% if product.product_buy_links[0].link-price %}<span class="featured-product-price">From {{product.product_buy_links[0].link-price}}</span>{% endif %}
                             {% assign imagePath = product.product_images[0] | replace: '/assets/images/', '' %}
-                            {% picture thumb {{imagePath}} alt=product.title %}
+                            {% picture thumb {{imagePath}} alt=product.title class="featured-product-image center-block img-responsive" %}
                         </div>
                     </a>
                     {% else %}
@@ -39,7 +39,7 @@
                             <h3 class="featured-product-title">{{product.title}}</h3>
                             {% if product.product_buy_links[0].link-price %}<span class="featured-product-price">From {{product.product_buy_links[0].link-price}}</span>{% endif %}
                             {% assign imagePath = product.product_images[0] | replace: '/assets/images/', '' %}
-                            {% picture thumb {{imagePath}} alt=product.title %}
+                            {% picture thumb {{imagePath}} alt=product.title class="featured-product-image center-block img-responsive" %}
                         </div>
                     </a>
                     {% endif %}
@@ -63,7 +63,7 @@
                             <h3 class="featured-product-title">{{product.title}}</h3>
                             {% if product.product_buy_links[0].link-price %}<span class="featured-product-price">From {{product.product_buy_links[0].link-price}}</span>{% endif %}
                             {% assign imagePath = product.product_images[0] | replace: '/assets/images/', '' %}
-                            {% picture thumb {{imagePath}} alt=product.title %}
+                            {% picture thumb {{imagePath}} alt=product.title class="featured-product-image center-block img-responsive" %}
                         </div>
                     </div>
                 {% endfor %}               

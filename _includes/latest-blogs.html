@@ -13,10 +13,10 @@
                             <a href="{{post.url}}">
                             {% if post.image.path %}
                                 {% assign imagePath = post.image.path | replace: '/assets/images/', '' %}
-                                {% picture thumb {{imagePath}} alt=post.title %}
+                                {% picture thumb {{imagePath}} class="blog-featured-image-home center-block img-responsive" alt=post.title %}
                             {% else %}
                                 {% assign imagePath = site.data.settings.placeholder | replace: '/assets/images/', '' %}
-                                {% picture thumb {{imagePath}} alt=post.title %}
+                                {% picture thumb {{imagePath}} class="blog-featured-image-home center-block img-responsive" alt=post.title %}
                             {% endif %}
                             </a>
                         </div>
@@ -67,10 +67,10 @@
                         <a href="{{post.url}}">
                             {% if post.image.path %}
                                 {% assign imagePath = post.image.path | replace: '/assets/images/', '' %}
-                                {% picture thumb {{imagePath}} alt=post.title %}
+                                {% picture thumb {{imagePath}} class="blog-featured-image-home center-block img-responsive" alt=post.title %}
                             {% else %}
                                 {% assign imagePath = site.data.settings.placeholder | replace: '/assets/images/', '' %}
-                                {% picture thumb {{imagePath}} alt=post.title %}
+                                {% picture thumb {{imagePath}} class="blog-featured-image-home center-block img-responsive" alt=post.title %}
                             {% endif %}
                         </a>
                     </div>
