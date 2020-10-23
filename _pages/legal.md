@@ -21,13 +21,13 @@ permalink: "/legal/"
 
 # Terms & Conditions
 
-## Information about the Linaro 96Boards.org Website
+## Information about the Linaro morello-project.org Website
 
-Please refer to: [https://www.96boards.org/about/](https://www.96boards.org/about/)
+Please refer to: [https://www.morello-project.org](https://www.morello-project.org)
 
 ## Information about Linaro™
 
-The “Linaro 96Boards.org Website” (the “Website”) shall mean the web site operated by or on behalf of Linaro Limited (hereinafter “We/Us/Our”) for your use, whether as a guest or a registered user. Linaro Limited is a private limited company registered in England and Wales with company number 07180318\. VAT No: 990 0273 24\. Registered Office Address:  
+The “Linaro morello-project.org Website” (the “Website”) shall mean the web site operated by or on behalf of Linaro Limited (hereinafter “We/Us/Our”) for your use, whether as a guest or a registered user. Linaro Limited is a private limited company registered in England and Wales with company number 07180318\. VAT No: 990 0273 24\. Registered Office Address:  
 Harston Mill  
 Harston  
 Cambridge  
@@ -222,8 +222,6 @@ LEC-ELA-30990-V0.91, 10 April 2015, Copyright (c) 2015 Linaro Limited
 # Trademark Usage
 
 Linaro® is a registered trademark of Linaro in the United Kingdom and other countries
-
-Linaro has applied to have ‘96 Boards’ registered as a trademark in the UK, US and other countries.
 
 Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries
 
